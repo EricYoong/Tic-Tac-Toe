@@ -1,3 +1,2 @@
 # Tic-Tac-Toe
-fdfsf  
-asdadad
+This is a tic tac toe game written in C++
